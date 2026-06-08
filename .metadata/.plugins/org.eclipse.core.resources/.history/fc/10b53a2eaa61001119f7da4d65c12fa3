@@ -1,0 +1,5 @@
+package com.prakash.orderservice.repository;
+
+public interface OrderRepository {
+
+}
