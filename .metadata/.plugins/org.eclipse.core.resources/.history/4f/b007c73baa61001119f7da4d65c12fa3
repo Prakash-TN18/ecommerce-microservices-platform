@@ -1,5 +1,0 @@
-package com.prakash.orderservice.dto;
-
-public class ProductDto {
-
-}

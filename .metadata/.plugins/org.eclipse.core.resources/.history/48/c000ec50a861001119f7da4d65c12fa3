@@ -1,5 +1,0 @@
-package com.prakash.productservice.repository;
-
-public interface ProductRepository {
-
-}
